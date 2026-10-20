@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jerry👋
 
-<!--
-**lryoooow/lryoooow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 China | 🤖 AI Agent Developer | 🧠 LLM Engineer | 🚀 Building Something Cool
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Focusing on Agent and LLM Applications.
+
+---
+
+## 🔭 Current Projects
+
+- 🔍 **[项目名](https://github.com/lryoooow/Agent-RS)** — 一句话介绍项目
+  - 第一个亮点
+  - 第二个亮点
+
+## 📚 What I'm Learning
+
+- **学习方向 1**
+- **学习方向 2**
+- **Writing Blog**
+
+---
+
+> *"你喜欢的一句话"* — 出处
